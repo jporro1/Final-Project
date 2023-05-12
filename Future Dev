@@ -1,0 +1,23 @@
+I had originally planned to make this a 2d RPG with a hub area, leveling system,
+weapon upgrades, and a couple different areas in which one could find enemies,
+complete with Melee and Magic combat,each of two varieties (Str/Dex, Int/Fth), 
+but I was unable to implement many things. 
+(I didn't mention some of these in the project proposal, 
+as I was unsure of if I'd be able to figure them out in time).
+
+Plans for future development would include all of those.  
+I made a text-based RPG last year (not for any of my classes),
+and this would be a version of that with controller support, 
+more interactive gameplay (as opposed to the turn-based gameplay I 
+implemented in the text-based version), and video/audio.
+
+I do intend to complete this project on my own time, when I'm able,
+as this is something I've wanted to do since high school, which means,
+now, I'll have to do more research on my own, which is ok.
+
+Unrelatedly to important future dev, I intend on spending a *lot* of time
+on the magic system, as I am unsatisfied with the current state of magic in
+video games, and wish to create something that I will enjoy to play
+with my brother.  This also means I'll have to polish the melee combat
+very well, as he prefers big tanky gameplay with big bonks.  
+This is for the best anyways.
